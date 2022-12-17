@@ -1,0 +1,59 @@
+@charset "UTF-8";
+
+body {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20;
+    padding-left: 5%;
+  }
+
+.bckg {
+    background-color: #83a3c3;
+}
+
+.imgpad {
+    padding-top: 10px;
+    padding-left: 15px;
+    padding-bottom: 5px;
+}
+
+.vidpad {
+    padding-top: 5px;
+    padding-left: 15px;
+}
+
+.abs {
+    font-size: 20px;
+  }
+
+.txtg {
+    margin-top: 30px;
+    font-size: 35px;
+    color: rgb(20, 0, 50);
+    text-decoration: underline;
+}
+
+.txts {
+    font-size: 15px;
+}
+
+.colorex {
+    color: yellow
+}
+
+.fontex {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.backex {
+    opacity: 0.5;
+    background-color: white;
+    margin-right: 60%;
+}
+
+.logoimg {
+    position:absolute;
+    top: 25px;
+    left: 90%;
+    right: 25px;
+    height: 100px;
+}
